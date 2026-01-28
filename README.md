@@ -19,8 +19,8 @@
 ### 線上體驗 (Live Demo)
 
 我們的專案已成功部署上線，歡迎透過以下網址體驗完整功能：
-🔗 **網站連結** : 
-https://e-commerce-web-project-eight.vercel.app/
+
+🔗 **網站連結** : https://e-commerce-web-project-eight.vercel.app/
 
 ### 4\. 前端設定 (Frontend Setup)
 
