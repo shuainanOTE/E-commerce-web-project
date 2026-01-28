@@ -15,7 +15,7 @@ import { usersManageHandler } from './modules/usersManage';
 import { userLogsHandler } from './modules/userLogs';
 import { backLoginHandlers } from './modules/backLogin';
 import { cmsproductdetailhandlers } from './modules/cmsproductdetail';
-import { usersMessagehandlers } from './modules/usersmessage';
+import { usersMessagehandlers } from './modules/usersMessage';
 
 export const handlers = [
   ...newsHandlers,
