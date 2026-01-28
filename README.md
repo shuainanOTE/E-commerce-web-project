@@ -1,5 +1,5 @@
 
-![專案相關圖片](frontend/src/assets/logo3.png)
+![專案相關圖片](frontend/src/assets/page01.png)
 
 # 哈根良野 一個冰品的購物網站
 
@@ -51,3 +51,6 @@
 * 歸維邦
 * 郭展溯
 * 陳睿宇
+
+![專案相關圖片](frontend/src/assets/logo3.png)
+
